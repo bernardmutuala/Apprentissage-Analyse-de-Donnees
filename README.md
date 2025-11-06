@@ -1,7 +1,7 @@
 # 📊 Apprentissage – Analyse de Données
 
 Bienvenue dans ce dépôt dédié à l’**apprentissage pratique de l’analyse de données**.  
-Vous y trouverez une collection de **guides complets**, **cours progressifs**, et **exercices corrigés** conçus pour aider les débutants et les passionnés à renforcer leurs compétences en **Python, NumPy, Excel, Power BI, et SQL**.
+Vous y trouverez une collection de **guides complets**, **cours progressifs**, et **exercices corrigés** conçus pour aider les débutants et les passionnés à renforcer leurs compétences en **Python (NumPy, Pandas, Matplotlib, Seaborn, etc.), Excel, Power BI, et SQL**.
 
 ---
 
