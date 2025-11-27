@@ -21,7 +21,6 @@ Chaque dossier contient un **guide spécifique** (en PDF ou Notebook) accompagn�
 | Thème | Description | Format |
 |-------|--------------|--------|
 | **NumPy – Guide complet et exercices corrigés** | Introduction à la manipulation numérique avec Python | PDF
-|-------|--------------|--------|
 | **Pandas – Guide complet et exercices résolus** | Manipulation et exploration complètes des données | PDF
 ---
 
